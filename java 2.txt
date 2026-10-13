@@ -1,0 +1,27 @@
+question:1
+
+import java.util.*;
+public class Main{
+    public static void main(String[]args){
+    int number=9;
+    String result=(number%2==0)?"even":"odd";
+    System.out.println("number is"+ result +number);
+    }
+}
+    
+
+question:2
+
+import java.util.*;
+public class Main{
+    public static void main(String[]args){
+    int a=8;
+    int b=10;
+    String result =(a>b) ? "greater" : (a==b) ? "equal" :  "less";
+    System.out.println(result);
+    }
+}
+
+question:3
+
+ 
